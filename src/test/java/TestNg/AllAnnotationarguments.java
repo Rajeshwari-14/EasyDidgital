@@ -18,4 +18,5 @@ public void logout() {
 @Test(priority=4)
 public void payment() {
 	System.out.println("payment");
+	//Test
 }}
